@@ -18,6 +18,7 @@
 - sklearn.preprocessing.**StandardScaler**/ **OneHotEncoder**/ **OrdinalEncoder**
 - sklearn.compose.**ColumnTransformer**
 - sklearn.ensemble.**RandomForestClassifier**
+- catboost.**CatBoostClassifier**
 
 ## 
 
