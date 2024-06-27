@@ -1,4 +1,4 @@
-# Связь просрочек по кредитным платежам с другими признаками
+# Выбор лучшей модели (ML) для оператора сотовой связи
 
 [ipynb](https://github.com/satysh/portfolio/blob/main/telecom/project.ipynb)
 
